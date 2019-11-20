@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "description": "A package to help run Ghost on Dokku",
   "scripts": {
-    "start": "node server.js"
+    "start": "node launch.js"
   },
   "repository": {
     "type": "git",
@@ -20,5 +20,8 @@
   "dependencies": {
     "ghost": "^3.0.3",
     "url-parse": "^1.4.7"
+  },
+  "engines": {
+    "node": "^10.13.0 || ^12.10.0"
   }
 }
