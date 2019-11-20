@@ -1,0 +1,23 @@
+{
+  "name": "ghost-on-dokku",
+  "version": "0.0.1",
+  "description": "A package to help run Ghost on Dokku",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@bitbucket.org/peterw/ghost-on-dokku.git"
+  },
+  "keywords": [
+    "ghost",
+    "blog",
+    "dokku"
+  ],
+  "author": "Peter Walker",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/peterw/ghost-on-dokku#readme",
+  "dependencies": {
+    "ghost": "^3.0.3"
+  }
+}
