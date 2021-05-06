@@ -18,7 +18,7 @@
   "license": "ISC",
   "homepage": "https://bitbucket.org/peterw/ghost-on-dokku#readme",
   "dependencies": {
-    "ghost": "^3.0.3",
+    "ghost": "^3.10.0",
     "url-parse": "^1.4.7"
   },
   "engines": {
