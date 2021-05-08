@@ -19,7 +19,7 @@
   "homepage": "https://bitbucket.org/peterw/ghost-on-dokku#readme",
   "dependencies": {
     "ghost": "^3.0.3",
-    "url-parse": "^1.4.7"
+    "url-parse": "^1.5.0"
   },
   "engines": {
     "node": "^10.13.0 || ^12.10.0"
